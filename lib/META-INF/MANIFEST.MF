@@ -1,0 +1,28 @@
+Manifest-Version: 1.0
+Signature-Version: 2.7.1.final
+Ant-Version: Apache Ant 1.7.0
+Created-By: 1.5.0_15-b04 (Sun Microsystems Inc.)
+Built-By: rytz
+Main-Class: scala.tools.scalap.Main
+Bundle-DocURL: http://www.scala-lang.org/
+Bundle-ManifestVersion: 2
+Bundle-Name: Scala Decoder Bundle
+Bundle-SymbolicName: scala_decoder
+Bundle-Version: 2.7.1.final
+Bundle-Vendor: LAMP/EPFL
+Export-Package: scala.tools.scalap;version="2.7.1.final"
+Import-Package: scala;version="2.7.1.final",scala.collection;version="
+ [2.5",scala.collection.mutable;version="[2.5",scala.testing;version="
+ [2.5",scala.tools.nsc.util;version="[2.5"
+Bundle-RequiredExecutionEnvironment: J2SE-1.4
+Class-Path: scala-library.jar scala-compiler.jar
+
+Name: scala/tools/scalap
+Extension-Name: scala.tools.scalap
+Specification-Title: Scala Decoder
+Specification-Version: 2.7.1.final
+Specification-Vendor: LAMP/EPFL
+Implementation-Title: scala.tools.scalap
+Implementation-Version: 2.7.1.final
+Implementation-Vendor: LAMP/EPFL
+
